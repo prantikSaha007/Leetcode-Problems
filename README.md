@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
@@ -17,6 +18,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
+| [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 ## Tree
 |  |
 | ------- |
@@ -50,4 +53,8 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
+## Greedy
+|  |
+| ------- |
+| [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 <!---LeetCode Topics End-->

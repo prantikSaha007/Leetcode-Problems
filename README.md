@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -14,6 +15,7 @@
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
+| [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 ## Tree
 |  |
@@ -58,4 +61,20 @@
 |  |
 | ------- |
 | [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->

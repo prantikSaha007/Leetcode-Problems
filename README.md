@@ -8,6 +8,7 @@
 | [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->

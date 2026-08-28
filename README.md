@@ -51,6 +51,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
@@ -109,4 +110,16 @@
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->

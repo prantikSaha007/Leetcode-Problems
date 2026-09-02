@@ -11,6 +11,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3840-house-robber-v](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3840-house-robber-v) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |

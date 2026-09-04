@@ -21,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
 | [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0310-minimum-height-trees](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
+| [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
 ## Graph Theory
 |  |
 | ------- |
@@ -134,4 +137,20 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->

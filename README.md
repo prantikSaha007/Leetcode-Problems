@@ -13,6 +13,7 @@
 | [3840-house-robber-v](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3840-house-robber-v) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
 | ------- |

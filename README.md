@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
@@ -131,6 +132,7 @@
 | [0310-minimum-height-trees](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -159,4 +161,12 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->

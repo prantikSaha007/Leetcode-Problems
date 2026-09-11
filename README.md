@@ -11,6 +11,7 @@
 | [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3840-house-robber-v](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3840-house-robber-v) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -109,6 +110,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -130,6 +132,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
@@ -181,4 +184,8 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

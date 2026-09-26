@@ -83,6 +83,7 @@
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -92,12 +93,14 @@
 | [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0940-distinct-subsequences-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -180,6 +184,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -232,4 +237,12 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->

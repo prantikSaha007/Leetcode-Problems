@@ -80,6 +80,7 @@
 ## Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -88,6 +89,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
@@ -98,6 +100,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0940-distinct-subsequences-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -178,6 +182,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
@@ -240,6 +245,7 @@
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Search Tree
 |  |

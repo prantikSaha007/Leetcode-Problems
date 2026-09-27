@@ -154,6 +154,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0940-distinct-subsequences-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -257,4 +258,12 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

@@ -68,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0337-house-robber-iii) |
@@ -152,6 +153,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
@@ -265,6 +267,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
@@ -274,6 +277,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization

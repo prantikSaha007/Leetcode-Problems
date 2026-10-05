@@ -38,6 +38,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1872-stone-game-viii) |
+| [2652-sum-multiples](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3524-find-x-value-of-array-i) |

@@ -169,6 +169,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2299-strong-password-checker-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2299-strong-password-checker-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |

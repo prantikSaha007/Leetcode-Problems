@@ -161,6 +161,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [0856-score-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -276,12 +277,14 @@
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization

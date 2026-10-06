@@ -121,6 +121,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
@@ -164,6 +165,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0856-score-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -288,6 +291,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization

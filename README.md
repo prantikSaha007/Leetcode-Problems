@@ -302,4 +302,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

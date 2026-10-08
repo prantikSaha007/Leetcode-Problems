@@ -308,6 +308,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |

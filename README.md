@@ -23,6 +23,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3840-house-robber-v](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3840-house-robber-v) |
 | [3875-construct-uniform-parity-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -135,6 +136,7 @@
 | [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
 | ------- |

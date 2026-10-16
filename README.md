@@ -331,6 +331,7 @@
 | [0197-rising-temperature](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0584-find-customer-referee) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1174-immediate-food-delivery-ii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |

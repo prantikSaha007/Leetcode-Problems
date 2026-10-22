@@ -341,6 +341,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1148-article-views-i) |
+| [1164-product-price-at-a-given-date](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1174-immediate-food-delivery-ii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1661-average-time-of-process-per-machine) |

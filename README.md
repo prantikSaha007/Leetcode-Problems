@@ -8,6 +8,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0835-image-overlap](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -114,6 +115,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -231,6 +233,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -273,6 +276,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0835-image-overlap](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 ## Recursion
 |  |
 | ------- |
@@ -352,4 +356,8 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3840-house-robber-v](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3840-house-robber-v) |
@@ -92,6 +93,7 @@
 | [2560-house-robber-iv](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2560-house-robber-iv) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3840-house-robber-v](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3840-house-robber-v) |
 ## Tree
 |  |
@@ -277,6 +279,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0835-image-overlap](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
 | ------- |

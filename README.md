@@ -10,6 +10,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -122,6 +123,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -213,6 +215,7 @@
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -241,6 +244,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
@@ -284,6 +288,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0835-image-overlap](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
@@ -369,4 +374,5 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

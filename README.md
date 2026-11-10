@@ -87,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -185,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -293,6 +295,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |

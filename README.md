@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0365-water-and-jug-problem](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0365-water-and-jug-problem) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
@@ -261,6 +262,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bézout's Lemma
 |  |
@@ -296,6 +298,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting

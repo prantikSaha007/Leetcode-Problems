@@ -25,6 +25,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3379-transformed-array](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -55,6 +56,7 @@
 | [2652-sum-multiples](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting
 |  |
 | ------- |
@@ -224,6 +228,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prantikSaha007/Leetcode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
